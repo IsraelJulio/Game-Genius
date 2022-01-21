@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: rgb(208, 255, 239);
+    background-color: #262626;
 }
 
 .main-game {
@@ -16,8 +16,8 @@ body {
     grid-template-areas: 'verde vermelho'
     'amarelo azul';
     grid-gap: 10px;
-    border: 1px solid #ffffff;
-    background-color: #ffffff;
+    border: 1px solid #262626;
+    background-color: #262626;  
     border-radius: 100%;
     width: 700px;
     height: 700px;
